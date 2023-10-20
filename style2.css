@@ -22,3 +22,8 @@ span {
     margin: 100px;
     padding: 100px;
 }
+
+body {
+    background-image: url(image/690eefe3ba1f553e0ea527f51ee407b604b681b4.jpg);
+    background-size: 1000px;
+}
