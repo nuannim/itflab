@@ -1,6 +1,7 @@
 /* name use # */
 #websitetitle {
     font-size: 128px;
+    color: black;
 
 }
 
@@ -24,9 +25,14 @@ span {
 }
 
 .container {
-    display: inline-block;
+    /* display: inline-block;
     width: 600px;
-    border: 2px greenyellow;
-    
+    border: 100000px greenyellow;
+    padding: 0; */
+    color: brown;
 
+}
+
+p {
+    font-size: 20px;
 }

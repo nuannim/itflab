@@ -1,0 +1,24 @@
+.container {
+    color: blue;
+}
+
+#websitetitle {
+    font-size: 50px;
+    color: black;
+
+}
+
+.paragraphfont {
+    font-size: 20px;
+}
+
+span {
+    font-size: 25px;
+}
+
+.textblock {
+    display: inline-block;
+    border: 1px black solid;
+    margin: 100px;
+    padding: 100px;
+}
