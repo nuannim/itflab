@@ -1,0 +1,31 @@
+/* name use # */
+#websitetitle {
+    font-size: 128px;
+
+}
+
+
+/* class use dot */
+.paragraph {
+    color: yellowgreen;
+}
+
+
+#first {
+    display: inline-block;
+    margin: 100px;
+    border: 2px green solid;
+    padding: 100px 0px;
+
+}
+
+span {
+    font-size: 100px;
+}
+
+.container {
+    display: inline-block;
+    width: 600px;
+    border: 2px greenyellow;
+    
+}
